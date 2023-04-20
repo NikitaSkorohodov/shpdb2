@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/web/WEB-INF/readers/listReaders.jsp</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/src/java/entity/Book.java</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/src/java/entity/History.java</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/web/WEB-INF/glassfish-resources.xml</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/web/WEB-INF/authors/addAuthor.jsp</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/src/java/entity/Reader.java</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/web/index.jsp</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/web/WEB-INF/books/book.jsp</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/web/WEB-INF/books/addCover.jsp</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/src/java/servlets/UploadServlet.java</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/web/showLogin.jsp</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/web/WEB-INF/books/addBook.jsp</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/web/WEB-INF/jspf/header.jspf</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/web/WEB-INF/readers/addReader.jsp</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/web/WEB-INF/books/listBooks.jsp</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/web/WEB-INF/history/takeOnBook.jsp</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/web/WEB-INF/authors/listAuthors.jsp</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/src/java/servlets/AuthorServlet.java</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/src/java/servlets/BookServlet.java</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/web/WEB-INF/history/showStat.jsp</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/src/java/servlets/ReaderServlets.java</file>
+            <file>file:/C:/Users/user.301-4/Documents/SPTV21WebLibrary-master%20(4)/SPTV21WebLibrary-master/src/java/servlets/HistoryServlets.java</file>
+        </group>
+    </open-files>
+</project-private>
